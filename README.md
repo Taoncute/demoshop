@@ -112,9 +112,6 @@ chmod -R 777 shop_online/public/assets/uploads/
 ## Tài khoản mặc định
 
 **Admin:**
-- Username: `admin`
-- Password: `admin123`
-- Email: `admin@shop.com`
 
 **Lưu ý:** Vui lòng đổi mật khẩu admin ngay sau khi cài đặt!
 
